@@ -11,7 +11,7 @@ I am interested in understanding general principles of holistic brain function. 
 
 ## Publications
 
-An updated list of papers can be found at [Google Scholar](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
+An up-to-date list of papers can be found at [Google Scholar](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
 - **Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (in press). Global waves synchronize the brain’s functional systems with fluctuating arousal. Science Advances. [[code](https://github.com/ryraut/arousal-waves)]
 
