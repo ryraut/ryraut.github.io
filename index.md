@@ -43,7 +43,7 @@ An updated list of papers can be found at [Google Scholar](https://scholar.googl
 - **Raut, R.V.**, Mitra, A., Snyder, A.Z., Raichle, M.E. (2019). On time delay estimation and sampling error in resting-state fMRI. NeuroImage, 194, 211-227.
 
 
-Raichle, M.E., Raut, R.V., Mitra, A. (2019). Brain networks: How many types are there?, in The Neocortex. Singer, W., Sejnowski, T., Rakic, P. eds. Strüngmann Forum Reports (27), Lupp, J.R. series ed. MIT Press, MA, 97-108.
+- Raichle, M.E., Raut, R.V., Mitra, A. (2019). Brain networks: How many types are there?, in The Neocortex. Singer, W., Sejnowski, T., Rakic, P. eds. Strüngmann Forum Reports (27), Lupp, J.R. series ed. MIT Press, MA, 97-108.
 
 
 - Marek, S., Siegel, J.S., Gordon, E.M., **Raut, R.V.**, Gratton, C., Newbold, D.J., Ortega, M., Laumann, T.O., Miller, D.B., Zheng, A., Lopez, K.C., Berg., J.J., Coalson, R.S., Nguyen, A.L., Dierker, D., Van., A.N., Hoyt, C.R., McDermott, K.B., Norris, S.A., Shimony, J.S., Snyder, A.Z., Nelson, S.M., Barch, D.M., Schlaggar, B.L., Raichle, M.E., Petersen, S.E., Greene, D.J., Dosenbach, N.U.F. (2018) Spatial and temporal organization of the individual human cerebellum. Neuron, 100 (4), 977-993.
