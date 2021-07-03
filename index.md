@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About
-Hello! I am a Neuroscience Ph.D. student with Marcus Raichle at Washington University in St. Louis.
+Hello! I am currently finishing up my PhD with Marcus Raichle at Washington University in St. Louis.
 
 ## Research interests
 
