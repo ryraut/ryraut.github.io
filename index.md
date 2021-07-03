@@ -12,16 +12,16 @@ Hello! I am a Neuroscience Ph.D. student with Marcus Raichle at Washington Unive
 
 An updated list of papers can be found at [Google Scholar](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
-**Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (in press). Global waves synchronize the brain’s functional systems with fluctuating arousal. Science Advances. [code](https://github.com/ryraut/arousal-waves)
+**Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (in press). Global waves synchronize the brain’s functional systems with fluctuating arousal. Science Advances. [[code](https://github.com/ryraut/arousal-waves)]
 
 
-Rosenthal, Z.P., **Raut, R.V.**, Snyder, A.Z., Culver, J.P., Raichle, M.E., Lee, J. (2021). Peripheral sensory stimulation elicits global slow waves by recruiting somatosensory cortex bilaterally. Proceedings of the National Academy of Sciences 118 (8) e2021252118. [paper](https://www.pnas.org/content/118/8/e2021252118)
+Rosenthal, Z.P., **Raut, R.V.**, Snyder, A.Z., Culver, J.P., Raichle, M.E., Lee, J. (2021). Peripheral sensory stimulation elicits global slow waves by recruiting somatosensory cortex bilaterally. Proceedings of the National Academy of Sciences 118 (8) e2021252118. [[paper](https://www.pnas.org/content/118/8/e2021252118)]
 
 
-**Raut, R.V.**, Snyder, A.Z., Raichle, M.E. (2020). Hierarchical dynamics as a macroscopic organizing principle of the human brain. Proceedings of the National Academy of Sciences, 117 (34), 20890-20897. [paper](https://www.pnas.org/content/117/34/20890) | [code](https://github.com/ryraut/intrinsic-timescales)
+**Raut, R.V.**, Snyder, A.Z., Raichle, M.E. (2020). Hierarchical dynamics as a macroscopic organizing principle of the human brain. Proceedings of the National Academy of Sciences, 117 (34), 20890-20897. [[paper](https://www.pnas.org/content/117/34/20890)] | [[code](https://github.com/ryraut/intrinsic-timescales)]
 
 
-Gordon, E.M., Laumann, T.O., Marek, S., **Raut, R.V.**, Gratton, C., Gilmore, A.W., Newbold, D.J., Greene, D.J., Coalson, R.S., Snyder, A.Z., Schlaggar, B.L., Petersen, S.E., Dosenbach, N.U.F., Nelson, S.M. (2020). Default mode network streams for coupling to language and control systems. Proceedings of the National Academy of Sciences, 117 (29), 17308-17319. [paper](https://www.pnas.org/content/117/29/17308)
+Gordon, E.M., Laumann, T.O., Marek, S., **Raut, R.V.**, Gratton, C., Gilmore, A.W., Newbold, D.J., Greene, D.J., Coalson, R.S., Snyder, A.Z., Schlaggar, B.L., Petersen, S.E., Dosenbach, N.U.F., Nelson, S.M. (2020). Default mode network streams for coupling to language and control systems. Proceedings of the National Academy of Sciences, 117 (29), 17308-17319. [[paper](https://www.pnas.org/content/117/29/17308)]
 
 
 Newbold, D.J., Laumann, T.O., Hoyt, C.R., Hampton, J.M., Montez, D.F., **Raut, R.V.**, Ortega, M., Mitra, A., Nielsen, A.N., Miller, D.B., Adeyemo, B., Nguyen, A.L., Scheidter, K.M., Tanenbaum, A.B., Van, A.N., Marek, S., Schlaggar, B.L., Carter, A.R., Greene, D.J., Gordon, E.M., Raichle, M.E., Petersen, S.E., Snyder, A.Z., Dosenbach, N.U.F. (2020). Plasticity and spontaneous activity pulses in disused human brain circuits. Neuron, 107, 580-589.
