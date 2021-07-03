@@ -40,7 +40,9 @@ An updated list of papers can be found at [Google Scholar](https://scholar.googl
 - **Raut, R.V.**, Mitra, A., Marek, S., Ortega, M., Snyder, A.Z., Tanenbaum, A., Laumann, T.O., Dosenbach, N.U.F., Raichle, M.E. (2020). Organization of propagated intrinsic brain activity in individual humans. Cerebral Cortex, 30 (3), 1716-1734.
 
 
-- **Raut, R.V.**, Mitra, A., Snyder, A.Z., Raichle, M.E. (2019). On time delay estimation and sampling error in resting-state fMRI. NeuroImage, 194, 211-227. \
+- **Raut, R.V.**, Mitra, A., Snyder, A.Z., Raichle, M.E. (2019). On time delay estimation and sampling error in resting-state fMRI. NeuroImage, 194, 211-227.
+
+
 Raichle, M.E., Raut, R.V., Mitra, A. (2019). Brain networks: How many types are there?, in The Neocortex. Singer, W., Sejnowski, T., Rakic, P. eds. Strüngmann Forum Reports (27), Lupp, J.R. series ed. MIT Press, MA, 97-108.
 
 
