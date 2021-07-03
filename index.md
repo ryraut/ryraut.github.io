@@ -7,7 +7,7 @@ Hello! I am a Neuroscience Ph.D. student with Marcus Raichle at Washington Unive
 
 ## Research interests
 
-I am interested in understanding general principles of how brains operate. To do this, I leverage data-driven approaches to elucidate the basic, intrinsic laws that govern how the activity of large neural populations evolves over space and time. The broad goal of this work is to make use of resources and opportunities available in the present, data-rich era in order to develop theoretical frameworks for systems neuroscience.
+I am interested in understanding general principles of how brains function. To do this, I leverage data-driven approaches to elucidate basic, intrinsic laws that govern how the activity of large neural populations evolves over space and time. The broad goal of this work is to make use of resources and opportunities available in the present, data-rich era in order to develop theoretical frameworks for systems neuroscience.
 
 ## Publications
 
