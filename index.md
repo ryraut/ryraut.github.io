@@ -7,7 +7,7 @@ Hello! I am currently finishing up a PhD in neuroscience with Marcus Raichle at 
 
 ## Research interests
 
-I am interested in understanding general principles of brain function. Rather than focusing on how brains solve specific computational problems, I take a data-driven approach toward understanding the basic, hidden laws that govern how the activity of neural populations evolves over space and time. The goal of this approach is to make use of the resources and opportunities available in the present, data-rich era, to develop stronger theoretical frameworks for systems neuroscience.
+I am interested in understanding general principles of brain function. I take a data-driven approach toward elucidating the basic, intrinsic laws that govern how the activity of neural populations evolves over space and time. The goal of this approach is to make use of the resources and opportunities available in the present, data-rich era, to develop stronger theoretical frameworks for systems neuroscience.
 
 ## Publications
 
