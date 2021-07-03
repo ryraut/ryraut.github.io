@@ -2,11 +2,12 @@
 layout: homepage
 ---
 
+## About
 Hello! I am a Neuroscience Ph.D. student with Marcus Raichle at Washington University in St. Louis.
 
 ## Research interests
 
-I am broadly interested in theoretical systems neuroscience, with particular interest in leveraging data-driven approaches to understanding general principles of brain dynamics.
+I am interested in understanding general principles of brain function. I am particularly interested in leveraging data-driven approaches to understand the basic, intrinsic laws that govern how the activity of large populations of brain cells evolves over space and time.
 
 ## Publications
 
