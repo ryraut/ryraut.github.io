@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About
-Hello! I am currently completing a PhD in neuroscience with Marcus Raichle at Washington University in St. Louis.
+Hello! I am currently completing a PhD in neuroscience with [Marcus Raichle](https://sites.wustl.edu/nillabs/people/marcus-e-raichle/) at Washington University in St. Louis.
 
 ## Research interests
 
