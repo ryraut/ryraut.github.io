@@ -3,15 +3,15 @@ layout: homepage
 ---
 
 ## About
-Hello! I am currently finishing up a PhD in neuroscience with Marcus Raichle at Washington University in St. Louis.
+Hello! I am currently completing a PhD in neuroscience with Marcus Raichle at Washington University in St. Louis.
 
 ## Research interests
 
-I am interested in understanding general principles of brain function. Despite the large number of interacting components, one invariably observes coordinated and orderly dynamical processes occuring within the brain at various spatial and temporal scales. I take a data-driven approach toward elucidating basic, governing laws of these spatiotemporal dynamics across measurement tools and species, capitalizing on the resources and opportunities available in the present, data-rich era. The goal of this approach is to build a context in which to understand activity patterns associated with specific behaviors or functions, thus developing stronger and more general theoretical frameworks for systems neuroscience.
+I am interested in understanding general principles of brain function. Despite the large number of interacting components, one invariably observes coordinated and orderly dynamical processes occuring within the brain at various spatial and temporal scales. I take a data-driven approach toward elucidating basic, governing laws of these spatiotemporal dynamics across measurement tools and species, capitalizing on the resources and opportunities available in the present, data-rich era. The goal of this approach is to use these laws to build physiologically and mathematically principled theoretical frameworks for systems neuroscience.
 
 ## Publications
 
-An up-to-date list of papers can be found at [Google Scholar](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
+For the most up-to-date listing, please visit my [Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
 - **Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (in press). Global waves synchronize the brain’s functional systems with fluctuating arousal. Science Advances. [[code](https://github.com/ryraut/arousal-waves)]
 
