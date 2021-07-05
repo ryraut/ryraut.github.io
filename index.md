@@ -13,11 +13,14 @@ I am interested in understanding general principles of brain function. Despite t
 
 For the most up-to-date listing, please visit my [Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
+# 2021
+
 - **Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (in press). Global waves synchronize the brain’s functional systems with fluctuating arousal. Science Advances. [[code](https://github.com/ryraut/arousal-waves)]
 
 
 - Rosenthal, Z.P., **Raut, R.V.**, Snyder, A.Z., Culver, J.P., Raichle, M.E., Lee, J. (2021). Peripheral sensory stimulation elicits global slow waves by recruiting somatosensory cortex bilaterally. Proceedings of the National Academy of Sciences 118 (8) e2021252118. [[paper](https://www.pnas.org/content/118/8/e2021252118)]
 
+# 2020
 
 - **Raut, R.V.**, Snyder, A.Z., Raichle, M.E. (2020). Hierarchical dynamics as a macroscopic organizing principle of the human brain. Proceedings of the National Academy of Sciences, 117 (34), 20890-20897. [[paper](https://www.pnas.org/content/117/34/20890)][[code](https://github.com/ryraut/intrinsic-timescales)]
 
@@ -39,13 +42,14 @@ For the most up-to-date listing, please visit my [Google Scholar page](https://s
 
 - **Raut, R.V.**, Mitra, A., Marek, S., Ortega, M., Snyder, A.Z., Tanenbaum, A., Laumann, T.O., Dosenbach, N.U.F., Raichle, M.E. (2020). Organization of propagated intrinsic brain activity in individual humans. Cerebral Cortex, 30 (3), 1716-1734. [[paper](https://academic.oup.com/cercor/article/30/3/1716/5559315)][[code](https://github.com/ryraut/lag-code)]
 
+# 2019
 
 - **Raut, R.V.**, Mitra, A., Snyder, A.Z., Raichle, M.E. (2019). On time delay estimation and sampling error in resting-state fMRI. NeuroImage, 194, 211-227. [[paper](https://www.sciencedirect.com/science/article/pii/S1053811919301934)][[code](https://github.com/ryraut/lag-code)]
 
 
 - Raichle, M.E., **Raut, R.V.**, Mitra, A. (2019). Brain networks: How many types are there?, in The Neocortex. Singer, W., Sejnowski, T., Rakic, P. eds. Strüngmann Forum Reports (27), Lupp, J.R. series ed. MIT Press, MA, 97-108.
 
-
+# 2018 and prior
 - Marek, S., Siegel, J.S., Gordon, E.M., **Raut, R.V.**, Gratton, C., Newbold, D.J., Ortega, M., Laumann, T.O., Miller, D.B., Zheng, A., Lopez, K.C., Berg., J.J., Coalson, R.S., Nguyen, A.L., Dierker, D., Van., A.N., Hoyt, C.R., McDermott, K.B., Norris, S.A., Shimony, J.S., Snyder, A.Z., Nelson, S.M., Barch, D.M., Schlaggar, B.L., Raichle, M.E., Petersen, S.E., Greene, D.J., Dosenbach, N.U.F. (2018) Spatial and temporal organization of the individual human cerebellum. Neuron, 100 (4), 977-993.
 
 
