@@ -7,7 +7,7 @@ Hello! I am currently completing a PhD in neuroscience with [Marcus Raichle](htt
 
 ## Research interests
 
-I am interested in understanding general principles of brain function. Despite the large number of interacting components, one invariably observes coordinated and orderly dynamical processes occuring within the brain at various spatial and temporal scales. I take a data-driven approach toward elucidating basic, governing laws of these spatiotemporal dynamics across measurement tools and species, capitalizing on the resources and opportunities available in the present, data-rich era. The goal of this approach is to use these laws to inform physiologically and mathematically principled theoretical frameworks for systems neuroscience.
+I am interested in understanding general principles of brain function. Despite the large number of interacting components, one invariably observes coordinated and orderly dynamical processes occuring within the brain at various spatial and temporal scales. I take a data-driven approach toward elucidating governing laws of these spatiotemporal dynamics across measurement tools and species, capitalizing on the resources available in the present, data-rich era. My goal is to use these basic laws to inform physiologically and mathematically principled theoretical frameworks for systems neuroscience.
 
 ## Publications
 
