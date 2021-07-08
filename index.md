@@ -48,6 +48,7 @@ For the most up-to-date listing, please visit my [Google Scholar page](https://s
 
 
 - Raichle, M.E., **Raut, R.V.**, Mitra, A. (2019). Brain networks: How many types are there?, in The Neocortex. Singer, W., Sejnowski, T., Rakic, P. eds. Strüngmann Forum Reports (27), Lupp, J.R. series ed. MIT Press, MA, 97-108. [[paper](https://www.esforum.de/publications/PDFs/sfr27/SFR27_06_Raichle.pdf)]
+
 ### 2018 and prior
 - Marek, S., Siegel, J.S., Gordon, E.M., **Raut, R.V.**, Gratton, C., Newbold, D.J., Ortega, M., Laumann, T.O., Miller, D.B., Zheng, A., Lopez, K.C., Berg., J.J., Coalson, R.S., Nguyen, A.L., Dierker, D., Van., A.N., Hoyt, C.R., McDermott, K.B., Norris, S.A., Shimony, J.S., Snyder, A.Z., Nelson, S.M., Barch, D.M., Schlaggar, B.L., Raichle, M.E., Petersen, S.E., Greene, D.J., Dosenbach, N.U.F. (2018) Spatial and temporal organization of the individual human cerebellum. Neuron, 100 (4), 977-993. [[paper](https://www.sciencedirect.com/science/article/pii/S0896627318308985)]
 
