@@ -15,7 +15,7 @@ For the most up-to-date listing, please visit my [Google Scholar page](https://s
 
 ### 2021
 
-- **Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (2021). Global waves synchronize the brain’s functional systems with fluctuating arousal. Science Advances. [[paper](https://advances.sciencemag.org/content/7/30/eabf2709)][code](https://github.com/ryraut/arousal-waves)]
+- **Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (2021). Global waves synchronize the brain’s functional systems with fluctuating arousal. Science Advances 7 (30) eabf2709. [[paper](https://advances.sciencemag.org/content/7/30/eabf2709)][[code](https://github.com/ryraut/arousal-waves)]
 
 
 - Rosenthal, Z.P., **Raut, R.V.**, Snyder, A.Z., Culver, J.P., Raichle, M.E., Lee, J. (2021). Peripheral sensory stimulation elicits global slow waves by recruiting somatosensory cortex bilaterally. Proceedings of the National Academy of Sciences 118 (8) e2021252118. [[paper](https://www.pnas.org/content/118/8/e2021252118)]
