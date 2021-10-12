@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About
-Hello! I am currently a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute for Brain Science](https://alleninstitute.org/what-we-do/brain-science/) and postdoctoral researcher at the University of Washington, Seattle. I recently completed a PhD in neuroscience with [Marcus Raichle](https://sites.wustl.edu/nillabs/people/marcus-e-raichle/) at Washington University in St. Louis.
+Hello! I am currently a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and postdoctoral researcher at the University of Washington, Seattle. I recently completed a PhD in neuroscience with [Marcus Raichle](https://sites.wustl.edu/nillabs/people/marcus-e-raichle/) at Washington University in St. Louis.
 
 ## Research interests
 
