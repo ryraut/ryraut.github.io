@@ -7,7 +7,7 @@ Hello! I am currently a [Shanahan Foundation Fellow](https://alleninstitute.org/
 
 ## Research interests
 
-I am interested in understanding general principles of brain function. Despite the large number of interacting components, one invariably observes orderly dynamical processes occuring within the brain at various spatial and temporal scales. I take a data-driven approach toward elucidating latent, governing laws of these spatiotemporal dynamics across measurement tools and species. I strive to understand these basic laws in mathematical, physiological, and behavioral terms.
+I am interested in understanding general principles of brain function. Despite the large number of interacting components, one invariably observes orderly dynamical processes occuring within the brain at various spatial and temporal scales. I take a data-driven approach toward elucidating latent, governing laws of these spatiotemporal dynamics across measurement tools and species. I seek holistic understanding of these basic laws in mathematical, physiological, and behavioral terms.
 
 ## Publications
 
