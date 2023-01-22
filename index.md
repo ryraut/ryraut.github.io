@@ -3,11 +3,14 @@ layout: homepage
 ---
 
 ## About
-Hello! I am currently a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and postdoctoral researcher at the University of Washington, Seattle. I recently completed a PhD in neuroscience with [Marcus Raichle](https://sites.wustl.edu/nillabs/people/marcus-e-raichle/) at Washington University in St. Louis.
+Hello! I am currently a [Shanahan Foundation Postdoctoral Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle, where I split my time between the [AI Institute in Dynamic Systems](https://dynamicsai.org/) and the [Computational Neuroscience Center](https://www.washington.edu/research/research-centers/uw-computational-neuroscience-center-uw-cnc/). I came to Seattle after completing my PhD in neuroscience with [Marcus Raichle](https://sites.wustl.edu/nillabs/people/marcus-e-raichle/) at Washington University in St. Louis.
+
 
 ## Research interests
+In a nutshell, I am interested in understanding general principles of how brains *work* -- identifying latent, governing laws of brain dynamics across spatiotemporal scales and species, and seeking their holistic interpretation in mathematical, physiological, and behavioral terms. I take a computational, data-centric approach to this question, which places my research agenda at the intersection of neuroscience, dynamical systems theory, and scientific machine learning. 
 
-I am interested in understanding general principles of brain function. Despite the large number of interacting components, one invariably observes orderly dynamical processes occuring within the brain at various spatial and temporal scales. I take a data-driven approach toward elucidating latent, governing laws of these spatiotemporal dynamics across measurement tools and species. I seek holistic understanding of these basic laws in mathematical, physiological, and behavioral terms.
+I am currently pursuing this agenda through a unique position that makes possible this kind of interdisciplinary training and collaboration. At UW, I primarily work with Professors [Nathan Kutz](https://faculty.washington.edu/kutz/), [Bing Brunton] (https://www.bingbrunton.com/), and [Steve Brunton](https://www.eigensteve.com/), where I work on combining machine learning and dynamical systems theory in order to develop data-driven methods for complex systems. At the Allen Institute I primarily work with [Anton Arkhipov](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/anton-arkhipov/), where I seek to bring insights derived from these data-driven methods to the realm of biophysical modeling. The goal is to simultaneously synthesize empirical neuroscience literature within mathematical frameworks, while generating specific biological hypotheses that can be tested through close collaboration with experimentalists.
+
 
 ## Publications
 
