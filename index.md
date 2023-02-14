@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About
-Hello! I am currently a [Shanahan Foundation Postdoctoral Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle -- where I split my time between the [AI Institute in Dynamic Systems](https://dynamicsai.org/) and the [Computational Neuroscience Center](https://www.washington.edu/research/research-centers/uw-computational-neuroscience-center-uw-cnc/). Prior to Seattle I completed my PhD in neuroscience with [Marcus Raichle](https://www.mir.wustl.edu/employees/marcus-raichle/)) at Washington University in St. Louis.
+Hello! I am currently a [Shanahan Foundation Postdoctoral Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle -- where I split my time between the [AI Institute in Dynamic Systems](https://dynamicsai.org/) and the [UW Computational Neuroscience Center](https://www.washington.edu/research/research-centers/uw-computational-neuroscience-center-uw-cnc/). Prior to Seattle I completed my PhD in neuroscience with [Marcus Raichle](https://www.mir.wustl.edu/employees/marcus-raichle/) at Washington University in St. Louis.
 
 
 ## Research interests
