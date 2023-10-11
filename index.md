@@ -7,23 +7,33 @@ Hello! I am currently a [Shanahan Foundation Fellow](https://alleninstitute.org/
 
 
 ## Research interests
-In a nutshell, I am interested in understanding general principles of how brains *work* -- uncovering the rules and regularities of how brain dynamics unfold across spatiotemporal scales and species. I'm especially focused on discovering and integrating such knowledge into holistic accounts of what it is that brains do: specifically, mathematical, physiological, and behavioral descriptions considered in a context that spans the whole brain, organism, and its environmental interactions. This philosophy motivates a data-centric dynamical modeling approach that complements experimental neuroscience, placing my research agenda at the intersection of neuroscience, dynamical systems theory, and scientific machine learning.
+In a nutshell, I am interested in understanding general principles of how brains *work* -- uncovering the rules and regularities of how brain dynamics unfold across spatiotemporal scales and species. I'm especially focused on discovering and integrating such knowledge into holistic accounts of what it is that brains do: specifically, mathematical, physiological, and behavioral descriptions considered in a context that spans the whole brain, organism, and its environmental interactions. This perspective motivates a data-centric dynamical modeling approach to the study of brain function, placing my research agenda at the intersection of neuroscience, dynamical systems theory, and scientific machine learning.
 
-I'm fortunate to be in a unique position that enables the interdisciplinary training and collaboration this agenda requires. At UW, I primarily work with Professors [Nathan Kutz](https://faculty.washington.edu/kutz/), [Bing Brunton](https://www.bingbrunton.com/), and [Steve Brunton](https://www.eigensteve.com/), where I seek to combine machine learning and dynamical systems theory to improve our ability to draw inferences about brains and other complex systems from the incomplete, noisy measurements that we typically access. At the Allen Institute I primarily work with [Anton Arkhipov](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/anton-arkhipov/), where I seek to bring insights derived from these data-driven methods to biologically detailed datasets and models. The goal is to synthesize empirical neuroscience literature within mathematical frameworks, clarifying specific biological hypotheses that can be tested through close collaboration with experimentalists.
+I'm fortunate to be in a unique position that enables the interdisciplinary training and collaboration this agenda requires. At UW, I primarily work with Professors [Nathan Kutz](https://faculty.washington.edu/kutz/), [Bing Brunton](https://www.bingbrunton.com/), and [Steve Brunton](https://www.eigensteve.com/), where I seek to combine machine learning and dynamical systems theory to improve our ability to draw inferences about brains and other complex systems from the incomplete, noisy measurements that we typically access. At the Allen Institute I primarily work with [Anton Arkhipov](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/anton-arkhipov/), where I seek to bring insights derived from these data-driven methods to biologically detailed datasets and models. The goal is to synthesize wide-ranging empirical observations within mathematical frameworks, clarifying specific biological hypotheses that can be tested through close collaboration with experimentalists.
 
 
-## Publications
+## Papers
 
 For the most up-to-date listing, please visit my [Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
-### 2021
+### Preprints
+- Jacobs, M., Brunton, B.W., Brunton, S.L., Kutz, J.N., **Raut, R.V.** (2023). HyperSINDy: Deep Generative Modeling of Nonlinear Stochastic Governing Equations. arXiv preprint arXiv:2310.04832. [[paper](https://arxiv.org/abs/2310.04832)]
+
+
+- Colbrook, M.J., Li, Q., **Raut, R.V.**, Townsend, A. (2023). Beyond expectations: Residual Dynamic Mode Decomposition and Variance for Stochastic Dynamical Systems. arXiv preprint arXiv:2308.10697. [[paper](https://arxiv.org/abs/2308.10697)]
+
+
+- *Carroll, C.M., *Stanley, M., **Raut, R.V.**, Constantino, N.J., Irmen, R.E., Mitra, A., Snipes, J.A., Raichle, M.E., Holtzman, D.M., Gould, R.W., Kishida, K.T., Macauley, S.L. (2022). Acute hyper-and hypoglycemia uncouples the metabolic cooperation between glucose and lactate to disrupt sleep. bioRxiv, pp.2022-09. [[paper](https://www.biorxiv.org/content/10.1101/2022.09.15.507967v1.abstract)]
+
+### Peer-reviewed
+- Luckett, P.H., Lee, J.J., Park, K.Y., **Raut, R.V.**, Meeker, K.L., Gordon, E.M., Snyder, A.Z., Ances, B.M., Leuthardt, E.C., Shimony, J.S. (2023). Resting state network mapping in individuals using deep learning. Frontiers in Neurology, 13, p.1055437. [[paper](https://www.frontiersin.org/articles/10.3389/fneur.2022.1055437/full)]
+
 
 - **Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (2021). Global waves synchronize the brain’s functional systems with fluctuating arousal. *Science Advances*, 7 (30), eabf2709. [[paper](https://advances.sciencemag.org/content/7/30/eabf2709)][[code](https://github.com/ryraut/arousal-waves)]
 
 
 - Rosenthal, Z.P., **Raut, R.V.**, Snyder, A.Z., Culver, J.P., Raichle, M.E., Lee, J. (2021). Peripheral sensory stimulation elicits global slow waves by recruiting somatosensory cortex bilaterally. *Proceedings of the National Academy of Sciences*, 118 (8), e2021252118. [[paper](https://www.pnas.org/content/118/8/e2021252118)]
 
-### 2020
 
 - **Raut, R.V.**, Snyder, A.Z., Raichle, M.E. (2020). Hierarchical dynamics as a macroscopic organizing principle of the human brain. *Proceedings of the National Academy of Sciences*, 117 (34), 20890-20897. [[paper](https://www.pnas.org/content/117/34/20890)][[code](https://github.com/ryraut/intrinsic-timescales)]
 
@@ -45,14 +55,13 @@ For the most up-to-date listing, please visit my [Google Scholar page](https://s
 
 - **Raut, R.V.**, Mitra, A., Marek, S., Ortega, M., Snyder, A.Z., Tanenbaum, A., Laumann, T.O., Dosenbach, N.U.F., Raichle, M.E. (2020). Organization of propagated intrinsic brain activity in individual humans. *Cerebral Cortex*, 30 (3), 1716-1734. [[paper](https://academic.oup.com/cercor/article/30/3/1716/5559315)][[code](https://github.com/ryraut/lag-code)]
 
-### 2019
 
 - **Raut, R.V.**, Mitra, A., Snyder, A.Z., Raichle, M.E. (2019). On time delay estimation and sampling error in resting-state fMRI. *NeuroImage*, 194, 211-227. [[paper](https://www.sciencedirect.com/science/article/pii/S1053811919301934)][[code](https://github.com/ryraut/lag-code)]
 
 
 - Raichle, M.E., **Raut, R.V.**, Mitra, A. (2019). Brain networks: How many types are there?, in *The Neocortex*. Singer, W., Sejnowski, T., Rakic, P. eds. Strüngmann Forum Reports (27), Lupp, J.R. series ed. MIT Press, MA, 97-108. [[paper](https://www.esforum.de/publications/PDFs/sfr27/SFR27_06_Raichle.pdf)]
 
-### 2018 and prior
+
 - Marek, S., Siegel, J.S., Gordon, E.M., **Raut, R.V.**, Gratton, C., Newbold, D.J., Ortega, M., Laumann, T.O., Miller, D.B., Zheng, A., Lopez, K.C., Berg., J.J., Coalson, R.S., Nguyen, A.L., Dierker, D., Van., A.N., Hoyt, C.R., McDermott, K.B., Norris, S.A., Shimony, J.S., Snyder, A.Z., Nelson, S.M., Barch, D.M., Schlaggar, B.L., Raichle, M.E., Petersen, S.E., Greene, D.J., Dosenbach, N.U.F. (2018) Spatial and temporal organization of the individual human cerebellum. *Neuron*, 100 (4), 977-993. [[paper](https://www.sciencedirect.com/science/article/pii/S0896627318308985)]
 
 
