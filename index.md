@@ -17,16 +17,16 @@ I'm fortunate to be in a unique position that enables the interdisciplinary trai
 For the most up-to-date listing, please visit my [Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
 ### Preprints
-- Jacobs, M., Brunton, B.W., Brunton, S.L., Kutz, J.N., **Raut, R.V.** (2023). HyperSINDy: Deep Generative Modeling of Nonlinear Stochastic Governing Equations. arXiv preprint arXiv:2310.04832. [[paper](https://arxiv.org/abs/2310.04832)]
+- Jacobs, M., Brunton, B.W., Brunton, S.L., Kutz, J.N., **Raut, R.V.** (2023). HyperSINDy: Deep Generative Modeling of Nonlinear Stochastic Governing Equations. *arXiv* preprint arXiv:2310.04832. [[paper](https://arxiv.org/abs/2310.04832)]
 
 
-- Colbrook, M.J., Li, Q., **Raut, R.V.**, Townsend, A. (2023). Beyond expectations: Residual Dynamic Mode Decomposition and Variance for Stochastic Dynamical Systems. arXiv preprint arXiv:2308.10697. [[paper](https://arxiv.org/abs/2308.10697)]
+- Colbrook, M.J., Li, Q., **Raut, R.V.**, Townsend, A. (2023). Beyond expectations: Residual Dynamic Mode Decomposition and Variance for Stochastic Dynamical Systems. *arXiv* preprint arXiv:2308.10697. [[paper](https://arxiv.org/abs/2308.10697)]
 
 
-- *Carroll, C.M., *Stanley, M., **Raut, R.V.**, Constantino, N.J., Irmen, R.E., Mitra, A., Snipes, J.A., Raichle, M.E., Holtzman, D.M., Gould, R.W., Kishida, K.T., Macauley, S.L. (2022). Acute hyper-and hypoglycemia uncouples the metabolic cooperation between glucose and lactate to disrupt sleep. bioRxiv, pp.2022-09. [[paper](https://www.biorxiv.org/content/10.1101/2022.09.15.507967v1.abstract)]
+- *Carroll, C.M., *Stanley, M., **Raut, R.V.**, Constantino, N.J., Irmen, R.E., Mitra, A., Snipes, J.A., Raichle, M.E., Holtzman, D.M., Gould, R.W., Kishida, K.T., Macauley, S.L. (2022). Acute hyper-and hypoglycemia uncouples the metabolic cooperation between glucose and lactate to disrupt sleep. *bioRxiv*, pp.2022-09. [[paper](https://www.biorxiv.org/content/10.1101/2022.09.15.507967v1.abstract)]
 
 ### Peer-reviewed
-- Luckett, P.H., Lee, J.J., Park, K.Y., **Raut, R.V.**, Meeker, K.L., Gordon, E.M., Snyder, A.Z., Ances, B.M., Leuthardt, E.C., Shimony, J.S. (2023). Resting state network mapping in individuals using deep learning. Frontiers in Neurology, 13, p.1055437. [[paper](https://www.frontiersin.org/articles/10.3389/fneur.2022.1055437/full)]
+- Luckett, P.H., Lee, J.J., Park, K.Y., **Raut, R.V.**, Meeker, K.L., Gordon, E.M., Snyder, A.Z., Ances, B.M., Leuthardt, E.C., Shimony, J.S. (2023). Resting state network mapping in individuals using deep learning. *Frontiers in Neurology*, 13, p.1055437. [[paper](https://www.frontiersin.org/articles/10.3389/fneur.2022.1055437/full)]
 
 
 - **Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (2021). Global waves synchronize the brain’s functional systems with fluctuating arousal. *Science Advances*, 7 (30), eabf2709. [[paper](https://advances.sciencemag.org/content/7/30/eabf2709)][[code](https://github.com/ryraut/arousal-waves)]
