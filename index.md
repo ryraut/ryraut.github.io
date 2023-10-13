@@ -14,7 +14,7 @@ I'm fortunate to be in a unique position that enables the interdisciplinary trai
 
 ## Papers
 
-For the most up-to-date listing, please visit my [[Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao)].
+For the most up-to-date listing, please visit my [Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
 ### Preprints
 - Jacobs, M., Brunton, B.W., Brunton, S.L., Kutz, J.N., **Raut, R.V.** (2023). HyperSINDy: Deep Generative Modeling of Nonlinear Stochastic Governing Equations. *arXiv* preprint arXiv:2310.04832. [[paper](https://arxiv.org/abs/2310.04832)]
