@@ -1,3 +1,4 @@
+remote_theme: yaoyao-liu/minimal-light
 title: Ryan Raut
 position: Shanahan Foundation Fellow
 affiliation: Allen Institute
@@ -11,4 +12,3 @@ avatar: ./assets/img/IMG_20190731_182616_crop.jpg
 enable_footnote: false
 auto_dark_mode: false
 canonical: https://minimal-light.yyliu.net/
-remote_theme: yaoyao-liu/minimal-light
