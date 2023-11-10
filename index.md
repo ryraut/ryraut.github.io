@@ -17,6 +17,9 @@ I'm fortunate to be in a unique position that enables the interdisciplinary trai
 For the most up-to-date listing, please visit my [Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
 ### Preprints
+- **Raut, R.V.**, Rosenthal, Z.P., Wang, X., Miao, H., Zhang, Z., Lee, J.M., Raichle, M.E., Bauer, A.Q., Brunton, B.W., Brunton, S.L., Kutz, J.N. (2023). Arousal as a universal embedding for spatiotemporal brain dynamics. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2023.11.06.565918v1)]
+
+
 - Jacobs, M., Brunton, B.W., Brunton, S.L., Kutz, J.N., **Raut, R.V.** (2023). HyperSINDy: Deep Generative Modeling of Nonlinear Stochastic Governing Equations. *arXiv* preprint arXiv:2310.04832. [[paper](https://arxiv.org/abs/2310.04832)]
 
 
