@@ -12,7 +12,6 @@ body {
 
 .pub-row {
   display: flex;
-  flex-direction: column; /* Add this line */
   align-items: center;}
 
 .social-icons a{
@@ -25,8 +24,8 @@ body {
   text-align:center;
   font-size:1.5rem;
   line-height:3.1rem;
-  margin-right:1rem;
-  margin-top:5rem}
+  margin-right:1rem
+}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
