@@ -11,7 +11,8 @@ body {
 }
 
 .pub-row {
-  display: flex; 
+  display: flex;
+  flex-direction: column; /* Add this line */
   align-items: center;}
 
 .social-icons a{
