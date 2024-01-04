@@ -20,15 +20,15 @@ For the most up-to-date listing, please visit my [Google Scholar page](https://s
 - **Raut, R.V.**, Rosenthal, Z.P., Wang, X., Miao, H., Zhang, Z., Lee, J.M., Raichle, M.E., Bauer, A.Q., Brunton, B.W., Brunton, S.L., Kutz, J.N. (2023). Arousal as a universal embedding for spatiotemporal brain dynamics. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2023.11.06.565918v1)]
 
 
-- Jacobs, M., Brunton, B.W., Brunton, S.L., Kutz, J.N., **Raut, R.V.** (2023). HyperSINDy: Deep Generative Modeling of Nonlinear Stochastic Governing Equations. *arXiv* preprint arXiv:2310.04832. [[paper](https://arxiv.org/abs/2310.04832)]
-
-
-- Colbrook, M.J., Li, Q., **Raut, R.V.**, Townsend, A. (2023). Beyond expectations: Residual Dynamic Mode Decomposition and Variance for Stochastic Dynamical Systems. *arXiv* preprint arXiv:2308.10697. [[paper](https://arxiv.org/abs/2308.10697)]
+- Jacobs, M., Brunton, B.W., Brunton, S.L., Kutz, J.N., **Raut, R.V.** (2023). HyperSINDy: deep generative modeling of nonlinear stochastic governing equations. *arXiv* preprint arXiv:2310.04832. [[paper](https://arxiv.org/abs/2310.04832)]
 
 
 - \*Carroll, C.M., \*Stanley, M., **Raut, R.V.**, Constantino, N.J., Irmen, R.E., Mitra, A., Snipes, J.A., Raichle, M.E., Holtzman, D.M., Gould, R.W., Kishida, K.T., Macauley, S.L. (2022). Acute hyper-and hypoglycemia uncouples the metabolic cooperation between glucose and lactate to disrupt sleep. *bioRxiv*, pp.2022-09. [[paper](https://www.biorxiv.org/content/10.1101/2022.09.15.507967v1.abstract)]
 
 ### Peer-reviewed
+- Colbrook, M.J., Li, Q., **Raut, R.V.**, Townsend, A. (2023). Beyond expectations: residual dynamic mode decomposition and variance for stochastic dynamical systems. *Nonlinear Dynamics*, 1-25. [[paper](https://link.springer.com/article/10.1007/s11071-023-09135-w)]
+
+
 - Luckett, P.H., Lee, J.J., Park, K.Y., **Raut, R.V.**, Meeker, K.L., Gordon, E.M., Snyder, A.Z., Ances, B.M., Leuthardt, E.C., Shimony, J.S. (2023). Resting state network mapping in individuals using deep learning. *Frontiers in Neurology*, 13, p.1055437. [[paper](https://www.frontiersin.org/articles/10.3389/fneur.2022.1055437/full)]
 
 
