@@ -11,10 +11,10 @@ As my interests cut across these domains, I collaborate closely with experimenta
 
 ** I am in the process of growing a research group here at Washington University (stay tuned)---and in general, am always eager to hear from folks with similar interests---so do feel free to reach out! **
 
-You can get a good sense of where my headspace has been lately from [this work](https://www.biorxiv.org/content/10.1101/2023.11.06.565918)
+You can get a good sense of where my headspace has been lately from [this work](https://www.biorxiv.org/content/10.1101/2023.11.06.565918).
 
 
-### Bio
+## Bio
 I am currently an Instructor at Washington University School of Medicine. Prior to St. Louis, I was a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle, spending much of my time at the [AI Institute in Dynamic Systems](https://dynamicsai.org/). Before that, I completed my PhD in neuroscience with [Marcus Raichle](https://www.mir.wustl.edu/employees/marcus-raichle/) at Washington University in St. Louis.
 
 
