@@ -49,9 +49,11 @@
         <br>
         {% endif %}
         {{ site.affiliation }}
-
+        {% if site.email %}
+        <br>
+        {{ site.email }}
+        {% endif %}
         <div class="social-icons">
-
           {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank">
             <i class="fab fa-linkedin-in"></i>
@@ -68,11 +70,6 @@
           </a>
           {% endif %}
         </div>
-                
-        {% if site.email %}
-        <br>
-        {{ site.email }}
-        {% endif %}
         <br>
         {% if site.keywords %}
         <br>
