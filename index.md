@@ -3,34 +3,34 @@ layout: homepage
 ---
 
 ## About
-Hello! I am currently a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle -- where I split my time between the [AI Institute in Dynamic Systems](https://dynamicsai.org/) and the [UW Computational Neuroscience Center](https://www.washington.edu/research/research-centers/uw-computational-neuroscience-center-uw-cnc/). Prior to Seattle I completed my PhD in neuroscience with [Marcus Raichle](https://www.mir.wustl.edu/employees/marcus-raichle/) at Washington University in St. Louis.
+Hello! I am a computational researcher exploring the living, dynamic brain---how activity continuously unfolds across space and time, seamlessly woven into the functioning of the organism as a whole. I look to uncover the hidden rules that organize these dynamics, distilling apparent complexity into simpler underlying principles.
+
+In practice, this means figuring out how to extract structure from complex data---placing my research at the intersection of *systems neuroscience*, *dynamical systems*, and *machine learning*. Now is an exciting time for this work: new experimental tools make it possible to record and control diverse aspects of brain activity and behavior across spatiotemporal scales and species.
+
+As my interests cut across these domains, I collaborate closely with experimentalists to build toward holistic accounts of brain and organismal function. My goal for this work is to clarify principles of healthy dynamics that can guide strategies for restoring function when disrupted.
+
+** I am in the process of growing a research group here at Washington University (stay tuned)---and in general, am always eager to hear from folks with similar interests---so do feel free to reach out! **
+
+You can get a good sense of where my headspace has been lately from [this work](https://www.biorxiv.org/content/10.1101/2023.11.06.565918)
 
 
-## Research interests
-In a nutshell, I am interested in understanding general principles of how brains *work* -- uncovering the rules and regularities of how brain dynamics unfold across spatiotemporal scales and species. I'm especially focused on discovering and integrating this knowledge into holistic accounts of what brains do: specifically, mathematical, physiological, and behavioral descriptions considered in a context that spans the whole brain, organism, and its environmental interactions. This perspective motivates a data-centric dynamical modeling approach to the study of brain function, placing my research agenda at the intersection of neuroscience, dynamical systems theory, and scientific machine learning.
-
-I'm fortunate to be in a unique position that enables the interdisciplinary training and collaboration this agenda requires. At UW, I primarily work with Professors [Nathan Kutz](https://faculty.washington.edu/kutz/), [Bing Brunton](https://www.bingbrunton.com/), and [Steve Brunton](https://www.eigensteve.com/), where I seek to combine machine learning and dynamical systems theory to improve our ability to draw inferences about brains and other complex systems from the incomplete, noisy measurements that we typically access. At the Allen Institute I primarily work with [Anton Arkhipov](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/anton-arkhipov/), where I seek to bring insights derived from these data-driven methods to biologically detailed datasets and models. The goal is to synthesize wide-ranging empirical observations within mathematical frameworks, clarifying specific biological hypotheses that can be tested through close collaboration with experimentalists.
+### Bio
+I am currently an Instructor at Washington University School of Medicine. Prior to St. Louis, I was a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle, spending much of my time at the [AI Institute in Dynamic Systems](https://dynamicsai.org/). Before that, I completed my PhD in neuroscience with [Marcus Raichle](https://www.mir.wustl.edu/employees/marcus-raichle/) at Washington University in St. Louis.
 
 
 ## Papers
 
 For the most up-to-date listing, please visit my [Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
-### Preprints
-- **Raut, R.V.**, Rosenthal, Z.P., Wang, X., Miao, H., Zhang, Z., Lee, J.M., Raichle, M.E., Bauer, A.Q., Brunton, B.W., Brunton, S.L., Kutz, J.N. (2023). Arousal as a universal embedding for spatiotemporal brain dynamics. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2023.11.06.565918v1)]
+- **Raut, R.V.**, Rosenthal, Z.P., Wang, X., Miao, H., Zhang, Z., Lee, J.M., Raichle, M.E., Bauer, A.Q., Brunton, B.W., Brunton, S.L., Kutz, J.N. Arousal as a universal embedding for spatiotemporal brain dynamics. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2023.11.06.565918)][[code](https://github.com/ryraut/arousal_dynamics)]
 
+- Colbrook, M.J., Li, Q., **Raut, R.V.**, Townsend, A. (2024). Beyond expectations: residual dynamic mode decomposition and variance for stochastic dynamical systems. *Nonlinear Dynamics*, 112 (3), 2037-2061 [[paper](https://link.springer.com/article/10.1007/s11071-023-09135-w)]
 
 - Jacobs, M., Brunton, B.W., Brunton, S.L., Kutz, J.N., **Raut, R.V.** (2023). HyperSINDy: deep generative modeling of nonlinear stochastic governing equations. *arXiv* preprint arXiv:2310.04832. [[paper](https://arxiv.org/abs/2310.04832)]
 
-
-- \*Carroll, C.M., \*Stanley, M., **Raut, R.V.**, Constantino, N.J., Irmen, R.E., Mitra, A., Snipes, J.A., Raichle, M.E., Holtzman, D.M., Gould, R.W., Kishida, K.T., Macauley, S.L. (2022). Acute hyper-and hypoglycemia uncouples the metabolic cooperation between glucose and lactate to disrupt sleep. *bioRxiv*, pp.2022-09. [[paper](https://www.biorxiv.org/content/10.1101/2022.09.15.507967v1.abstract)]
-
-### Peer-reviewed
-- Colbrook, M.J., Li, Q., **Raut, R.V.**, Townsend, A. (2023). Beyond expectations: residual dynamic mode decomposition and variance for stochastic dynamical systems. *Nonlinear Dynamics*, 1-25. [[paper](https://link.springer.com/article/10.1007/s11071-023-09135-w)]
-
-
 - Luckett, P.H., Lee, J.J., Park, K.Y., **Raut, R.V.**, Meeker, K.L., Gordon, E.M., Snyder, A.Z., Ances, B.M., Leuthardt, E.C., Shimony, J.S. (2023). Resting state network mapping in individuals using deep learning. *Frontiers in Neurology*, 13, p.1055437. [[paper](https://www.frontiersin.org/articles/10.3389/fneur.2022.1055437/full)]
 
+- \*Carroll, C.M., \*Stanley, M., **Raut, R.V.**, Constantino, N.J., Irmen, R.E., Mitra, A., Snipes, J.A., Raichle, M.E., Holtzman, D.M., Gould, R.W., Kishida, K.T., Macauley, S.L. (2022). Acute hyper-and hypoglycemia uncouples the metabolic cooperation between glucose and lactate to disrupt sleep. *bioRxiv*, pp.2022-09. [[paper](https://www.biorxiv.org/content/10.1101/2022.09.15.507967v1.abstract)]
 
 - **Raut, R.V.**, Snyder, A.Z., Mitra, A., Yellin, D.M., Fujii, N., Malach, R., Raichle, M.E. (2021). Global waves synchronize the brain’s functional systems with fluctuating arousal. *Science Advances*, 7 (30), eabf2709. [[paper](https://advances.sciencemag.org/content/7/30/eabf2709)][[code](https://github.com/ryraut/arousal-waves)]
 
