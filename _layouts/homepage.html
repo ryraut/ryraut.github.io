@@ -51,16 +51,6 @@
         {{ site.affiliation }}
         <br>
         {{ site.affiliation2 }}
-        {% if site.email %}
-        <br>
-        {{ site.email }}
-        {% endif %}
-        <br>
-        {% if site.keywords %}
-        <br>
-        {{ site.keywords }}
-        <br>
-        {% endif %}
 
         <div class="social-icons">
 
@@ -80,6 +70,17 @@
           </a>
           {% endif %}
         </div>
+                
+        {% if site.email %}
+        <br>
+        {{ site.email }}
+        {% endif %}
+        <br>
+        {% if site.keywords %}
+        <br>
+        {{ site.keywords }}
+        <br>
+        {% endif %}
         <br>
         <br>
         <br>
