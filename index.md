@@ -7,7 +7,7 @@ Hello! I am a computational researcher exploring the living, dynamic brain---how
 
 In practice, this means figuring out how to extract structure from complex data---placing my research at the intersection of *systems neuroscience*, *dynamical systems*, and *machine learning*. Now is an exciting time for this work: new experimental tools make it possible to record and control diverse aspects of brain activity and behavior across spatiotemporal scales and species.
 
-As my interests cut across these domains, I collaborate closely with experimentalists to build toward holistic accounts of brain and organismal function. My goal for this work is to clarify principles of healthy dynamics that can guide strategies for restoring function when disrupted.
+As my interests cut across these domains, I collaborate closely with experimentalists to integrate empirical findings into holistic accounts of brain and organismal function. My goal for this work is to clarify principles of healthy dynamics that can guide strategies for restoring function when disrupted.
 
 ** I am in the process of growing a research group here at Washington University (stay tuned)---and in general, am always eager to hear from folks with similar interests---so do feel free to reach out! **
 
