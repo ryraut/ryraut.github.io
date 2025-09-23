@@ -7,7 +7,7 @@ Hello! I am a computational researcher seeking to understand principles of the l
 
 In practice, this means extracting structure from complex data—--placing my research at the intersection of *systems neuroscience*, *dynamical systems*, and *machine learning*. I pursue these questions in collaboration with experimentalists recording brain activity and behavior across scales and species, ultimately building toward holistic accounts of brain function.
 
-** I am currently starting up a research group at WashU (stay tuned)---and in general, am always eager to hear from folks with similar interests---so do feel free to reach out! **
+** I am in the process of starting up a research group (and real website...stay tuned)---and in general, am always eager to hear from folks with similar interests---so do feel free to reach out! **
 
 ## Bio
 I am currently an Instructor at Washington University School of Medicine. Prior to St. Louis, I was a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle, spending much of my time at the [AI Institute in Dynamic Systems](https://dynamicsai.org/). Before that, I completed my PhD in neuroscience with [Marcus Raichle](https://www.mir.wustl.edu/employees/marcus-raichle/) at Washington University in St. Louis.
