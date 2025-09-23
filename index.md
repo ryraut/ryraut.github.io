@@ -3,16 +3,11 @@ layout: homepage
 ---
 
 ## About
-Hello! I am a computational researcher exploring the living, dynamic brain---how activity continuously unfolds across space and time, seamlessly woven into the functioning of the organism as a whole. I look to uncover the hidden rules that organize these dynamics, distilling apparent complexity into simpler underlying principles.
+Hello! I am a computational researcher seeking to understand principles of the living, dynamic brain—--how activity is continuously generated, orchestrated across space and time, and woven into the ongoing functioning of the whole organism. My work aims to uncover the hidden rules and constraints that organize these internal dynamics, allowing us to distill their complexity into simpler underlying principles.
 
-In practice, this means figuring out how to extract structure from complex data---placing my research at the intersection of *systems neuroscience*, *dynamical systems*, and *machine learning*. Now is an exciting time for this work: new experimental tools make it possible to record and control diverse aspects of brain activity and behavior across spatiotemporal scales and species.
+In practice, this means extracting structure from complex data—--placing my research at the intersection of *systems neuroscience*, *dynamical systems*, and *machine learning*. I pursue these questions in collaboration with experimentalists recording brain activity and behavior across scales and species, ultimately building toward holistic accounts of brain function.
 
-As my interests cut across these domains, I collaborate closely with experimentalists to integrate empirical findings into holistic accounts of brain and organismal function. My goal for this work is to clarify principles of healthy dynamics that can guide strategies for restoring function when disrupted.
-
-** I am in the process of growing a research group here at Washington University (stay tuned)---and in general, am always eager to hear from folks with similar interests---so do feel free to reach out! **
-
-You can get a good sense of where my headspace has been lately from [this work](https://www.biorxiv.org/content/10.1101/2023.11.06.565918).
-
+** I am currently starting up a research group at WashU (stay tuned)---and in general, am always eager to hear from folks with similar interests---so do feel free to reach out! **
 
 ## Bio
 I am currently an Instructor at Washington University School of Medicine. Prior to St. Louis, I was a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle, spending much of my time at the [AI Institute in Dynamic Systems](https://dynamicsai.org/). Before that, I completed my PhD in neuroscience with [Marcus Raichle](https://www.mir.wustl.edu/employees/marcus-raichle/) at Washington University in St. Louis.
