@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## About
-Hello! I am a computational researcher seeking to understand principles of the living, dynamic brain---how activity is continuously generated, orchestrated across space and time, and woven into the ongoing functioning of the whole organism. My work aims to uncover the hidden rules and constraints that organize these internal dynamics, allowing us to distill their complexity into simpler underlying principles.
+Hello! I am a computational researcher seeking to understand principles of the living, dynamic brain---how activity is continuously generated, orchestrated across space and time, and woven into a broader whole that actively realizes a functioning organism. I look to uncover hidden rules and constraints that shape these internal dynamics, allowing their complexity to be distilled into simpler underlying principles.
 
-In practice, this means extracting structure from complex data---placing my research at the intersection of *systems neuroscience*, *dynamical systems*, and *machine learning*. I pursue these questions in collaboration with experimentalists recording brain activity and behavior across scales and species, ultimately building toward holistic accounts of brain function.
+In practice, this means extracting structure from complex data---placing my research at the intersection of *systems neuroscience*, *dynamical systems*, and *machine learning*. I pursue this work in collaboration with experimentalists recording brain activity and behavior across scales and species, ultimately building toward holistic accounts of brain function.
 
 ** I am in the process of starting up a research group (and real website...stay tuned), and in general am always eager to hear from folks with similar interests. So, do feel free to reach out! **
 
