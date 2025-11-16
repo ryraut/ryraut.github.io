@@ -54,6 +54,10 @@
         {{ site.email }}
         <br>
         {% endif %}
+        {% if site.lab_site %}
+        <li><a href="{{ site.lab_site }}">Lab website</a></li>
+        {% endif %}
+
         <div class="social-icons">
           {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank">
