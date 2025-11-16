@@ -7,7 +7,7 @@ Hello! I am a computational researcher seeking to understand principles of the l
 
 In practice, this means extracting structure from complex data---placing my research at the intersection of *systems neuroscience*, *dynamical systems*, and *machine learning*. I pursue this work in collaboration with experimentalists recording brain activity and behavior across scales and species, ultimately building toward holistic accounts of brain function.
 
-** I am in the process of starting up a research group (and real website...stay tuned), and in general am always eager to hear from folks with similar interests. So, do feel free to reach out! **
+** I am in the process of starting up a research group ([lab site](https://www.mir.wustl.edu/raut-lab) in progress...), and in general am always eager to hear from folks with similar interests. So, do feel free to reach out! **
 
 ## Bio
 I am currently an Instructor at Washington University School of Medicine. Prior to St. Louis, I was a [Shanahan Foundation Fellow](https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/) at the [Allen Institute](https://alleninstitute.org/what-we-do/brain-science/) and the University of Washington, Seattle, spending much of my time at the [AI Institute in Dynamic Systems](https://dynamicsai.org/). Before that, I completed my PhD in neuroscience with [Marcus Raichle](https://www.mir.wustl.edu/employees/marcus-raichle/) at Washington University in St. Louis.
@@ -17,7 +17,7 @@ I am currently an Instructor at Washington University School of Medicine. Prior 
 
 For the most up-to-date listing, please visit my [Google Scholar page](https://scholar.google.com/citations?user=fafSHeYAAAAJ&hl=en&oi=ao).
 
-- **Raut, R.V.**, Rosenthal, Z.P., Wang, X., Miao, H., Zhang, Z., Lee, J.M., Raichle, M.E., Bauer, A.Q., Brunton, B.W., Brunton, S.L., Kutz, J.N. Arousal as a universal embedding for spatiotemporal brain dynamics. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2023.11.06.565918)][[code](https://github.com/ryraut/arousal_dynamics)]
+- **Raut, R.V.**, Rosenthal, Z.P., Wang, X., Miao, H., Zhang, Z., Lee, J.M., Raichle, M.E., Bauer, A.Q., Brunton, B.W., Brunton, S.L., Kutz, J.N. Arousal as a universal embedding for spatiotemporal brain dynamics. *Nature*, 647, 454–461. [[paper](https://www.nature.com/articles/s41586-025-09544-4)][[code](https://github.com/ryraut/arousal_dynamics)]
 
 - Colbrook, M.J., Li, Q., **Raut, R.V.**, Townsend, A. (2024). Beyond expectations: residual dynamic mode decomposition and variance for stochastic dynamical systems. *Nonlinear Dynamics*, 112 (3), 2037-2061 [[paper](https://link.springer.com/article/10.1007/s11071-023-09135-w)]
 
